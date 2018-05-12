@@ -1,0 +1,45 @@
+_repo: Van-Aardappel-mes-tot-OfficiersdegenUit-het-Dagboek-van-een-Landstormplichtige._33297
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Mens, I. van
+    gutenberg_agent_id: '36317'
+    url: http://www.gutenberg.org/2009/agents/36317
+  - agent_name: Velde, Henry van de
+    aliases:
+    - Velde, Henricus Clementinus van de
+    - Velde, Henri van de
+    - Van de Velde, Henry
+    birthdate: 1863
+    deathdate: 1957
+    gutenberg_agent_id: '32969'
+    url: http://www.gutenberg.org/2009/agents/32969
+covers:
+- cover_type: archival
+  image_path: 33297-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stoke, Melis
+    aliases:
+    - Salomonson, H. (Herman)
+    - Salomonson, Herman
+    birthdate: 1892
+    deathdate: 1942
+    gutenberg_agent_id: '36316'
+    url: http://www.gutenberg.org/2009/agents/36316
+description: ''
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33297'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Netherlands'
+- !lcc 'D501'
+title: 'Van Aardappel-mes tot Officiersdegen
+
+  Uit het Dagboek van een Landstormplichtige.'
+url: http://www.gutenberg.org/ebooks/33297
